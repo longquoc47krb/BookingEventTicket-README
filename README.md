@@ -22,3 +22,4 @@
      - [Github](https://github.com/longquoc47krb)
      - [Facebook](https://www.facebook.com/long.quoc.0702)
      - [Twitter](https://twitter.com/longpique47)
+     - [Email](mailto:longquoc47krb@gmail.com)
