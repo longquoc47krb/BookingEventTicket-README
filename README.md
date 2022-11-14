@@ -17,10 +17,8 @@
 | ✅ Filter events by filter (province, category, date, status) | ✅ Payment (Almost)                                                    |                                   |                   |
 |                                                              | ⬜ View purchased tickets                                     |                                   |                   |
 ## Contacts
- - Members:
+ - If you are interested in this project, contact me via:
    - **Nguyễn Quốc Long**
      - [Github](https://github.com/longquoc47krb)
      - [Facebook](https://www.facebook.com/long.quoc.0702)
-   - **Chu Nguyễn Anh Tuấn**
-     - [Github](https://github.com/Sahb9)
-     - [Facebook](https://www.facebook.com/xanh.ti.1)
+     - [Twitter](https://twitter.com/longpique47)
